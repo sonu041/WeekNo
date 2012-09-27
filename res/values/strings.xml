@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="hello">Current Week</string>
+    <string name="app_name">WeekNo</string>
+    <string name="credit">by Shuvankar Sarkar</string>
+    <string name="BLUE">#blue</string>
+    <string name="week">Week</string>
+    <string name="Date">date</string>
+
+</resources>
