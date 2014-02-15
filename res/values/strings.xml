@@ -7,5 +7,6 @@
     <string name="BLUE">#blue</string>
     <string name="week">Week</string>
     <string name="Date">date</string>
+    <string name="selectDate">Select Date</string>
 
 </resources>

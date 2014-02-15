@@ -22,7 +22,13 @@
         android:layout_height="wrap_content"
         android:text="@string/week"
         android:layout_gravity="center"
-        android:textAppearance="?android:attr/textAppearanceLarge" android:textSize="100dp" android:textStyle="bold"/>
+        android:textAppearance="?android:attr/textAppearanceLarge" android:textSize="100sp" android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btnChangeDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/selectDate" />
 
     <TextView
         android:id="@+id/txtCredit"
